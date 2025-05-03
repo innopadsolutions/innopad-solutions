@@ -87,7 +87,7 @@ Our services include:
 
 ## 🌐 Contact Us
 
-📩 Email: [hello@innopadsolutions.com](mailto:info@innopadsolutions.com)  
+📩 Email: [info@innopadsolutions.com](mailto:info@innopadsolutions.com)  
 🌎 Website: [https://innopadsolutions.com](https://innopadsolutions.com)  
 🔗 LinkedIn: [Innopad Solutions on LinkedIn](https://www.linkedin.com/company/innopadsolutions)
 
